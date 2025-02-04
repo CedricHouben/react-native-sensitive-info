@@ -1,5 +1,5 @@
 {
-  "name": "react-native-sensitive-info",
+  "name": "chouben-react-native-sensitive-info",
   "version": "6.0.0-alpha.9",
   "main": "build/index.js",
   "module": "build/index.es.js",
